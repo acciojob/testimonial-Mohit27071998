@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.main{
+	 background-color:#f5f5f5;
+	padding:20px;
+	height:300px;
+}
+.s1{
+	background-color:rgb(255,255,255);
+	padding:1px 15px;
+	
+}
+.abc{
+	text-align-last:right;
+}
+
+
